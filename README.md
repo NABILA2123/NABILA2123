@@ -7,7 +7,7 @@ As a data science engineering student at the National Institute of Posts and Tel
 - 👯 I’m looking to collaborate on innovative data science and machine learning projects.
 - 🤔 I’m looking for help with optimizing machine learning models for large datasets.
 - 💬 Ask me about data manipulation, cleaning, processing, visualization, and exploratory data analysis.
-- 📫 How to reach me: [Your Email]
+- 📫 How to reach me: [nabiladouma23@gmail.com]
 - ⚡ Fun fact: I can code a sorting algorithm in Assembly language.
 
 ## Skills and Tools
