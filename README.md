@@ -1,4 +1,5 @@
 # Hi there, I'm @NABILA2123 👋
+### Data and Machine Learning Engineer | AI Enthusiast 
 
 As a data science engineering student at the National Institute of Posts and Telecommunications (INPT), I am passionate about the challenges presented by data analysis, interpretation and machine learning too. 
 ## About Me
@@ -23,8 +24,21 @@ As a data science engineering student at the National Institute of Posts and Tel
 
 **Database Management**: SQL, XML, HTML
 
-**Office Tools**: Microsoft Office
-## Projects
+**Big Data**: Hadoop, Spark
+
+**Databases**: PostgreSQL, MongoDB
+
+**Cloud Platforms**: AWS, Azure, GCP
+
+**DevOps & MLOps**: Docker, Kubernetes, MLflow, Airflow
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=Microsoft-SQL-Server&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
 
 ## Contact
 
